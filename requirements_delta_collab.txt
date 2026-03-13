@@ -1,0 +1,4 @@
+google-ai-generativelanguage==0.6.15
+protobuf
+sionna==1.2.1
+sionna-rt==1.2.1
